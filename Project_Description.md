@@ -50,8 +50,9 @@ so on..
 <b>When we think about sound:</b>
 
 We often think about how loud it is (amplitude, or intensity) and its pitch (frequency).
-<div style="text-align:center">
 
+<div style="text-align:center">
+<p align="center">
 ![](content/Figure_18_02_04a.jpg)
 
 </div>
@@ -60,7 +61,7 @@ In a given medium under fixed conditions, speed is constant. Hence, there is a r
 
 ---
 <div style="text-align:center">
-
+<p align="center">
 ![](content/longitest3bis.gif)
 </div>
 
@@ -69,7 +70,7 @@ The animation above shows two acoustic longitudinal waves with two different fre
 
 ---
 <div style="text-align:center">
-
+<p align="center">
 ![](content/Typical_Signal.gif)
 </div>
 <a href="http://iamtechnical.com/wave-properties-amplitude-wavelength-and-phase-angle">&#9658;</a>
@@ -82,7 +83,7 @@ An interactive animation illustrating the amplitude, wavelength and phase of a s
 ---
 
 # How much of Sound Intensity can we Feel? 
-
+<p align="center">
 ![](content/electrical_guru_noise_level.png)
 
 [<div style='text-align:center'>Image Follow Up</div>](https://www.scienceguru.co.in/fileman/Uploads/PHY%2009/Sound/electrical%20guru%20noise%20level.png)
@@ -90,12 +91,13 @@ An interactive animation illustrating the amplitude, wavelength and phase of a s
 ---
 
 # How much of Sound Frequency can we Feel? 
+<p align="center">
 <img src="content/nasa_science_of_sound1.png">
 
 Image courtesy of [NASA](https://www.nasa.gov/specials/X59/science-of-sound.html) 
 
 ---
-
+<p align="center">
 <img src="content/animals_hearing_compare.jpg">
 
 [<div style="text-align:center">Image Follow-up</div>](http://www.libertycentral.org.uk/how-do-animals-hearing-compare-to-humans/)
