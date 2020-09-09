@@ -51,28 +51,25 @@ so on..
 
 We often think about how loud it is (amplitude, or intensity) and its pitch (frequency).
 
-<div style="text-align:center">
 <p align="center">
 ![](content/Figure_18_02_04a.jpg)
-
-</div>
+</p>
 <a href="https://courses.lumenlearning.com/physics/chapter/17-2-speed-of-sound-frequency-and-wavelength/">&#9658;</a>
 In a given medium under fixed conditions, speed is constant. Hence, there is a relationship between frequency(f) and wavelength(λ); the higher the frequency, the smaller the wavelength
 
 ---
-<div style="text-align:center">
+
 <p align="center">
 ![](content/longitest3bis.gif)
-</div>
+</p>
 
 <a href="https://blog.soton.ac.uk/soundwaves/wave-basics/wavelength-frequency-relation/">&#9658;</a>
 The animation above shows two acoustic longitudinal waves with two different frequencies but travelling with the same velocity. It can be seen that the wavelength is halved when the frequency is doubled.
 
 ---
-<div style="text-align:center">
 <p align="center">
 ![](content/Typical_Signal.gif)
-</div>
+</p>
 <a href="http://iamtechnical.com/wave-properties-amplitude-wavelength-and-phase-angle">&#9658;</a>
 An interactive animation illustrating the amplitude, wavelength and phase of a sine wave. Varying the amplitude, wavelength and phase; observe the effects on the transverse wave
 
@@ -99,7 +96,7 @@ Image courtesy of [NASA](https://www.nasa.gov/specials/X59/science-of-sound.html
 ---
 <p align="center">
 <img src="content/animals_hearing_compare.jpg">
-
+</p>
 [<div style="text-align:center">Image Follow-up</div>](http://www.libertycentral.org.uk/how-do-animals-hearing-compare-to-humans/)
 
 ---
