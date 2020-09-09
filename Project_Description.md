@@ -50,26 +50,28 @@ so on..
 <b>When we think about sound:</b>
 
 We often think about how loud it is (amplitude, or intensity) and its pitch (frequency).
+<div style="text-align:center">
 
-<p align="center">
-<img src = "content/Figure_18_02_04a.jpg>
-</p>
+![](content/Figure_18_02_04a.jpg)
+
+</div>
 <a href="https://courses.lumenlearning.com/physics/chapter/17-2-speed-of-sound-frequency-and-wavelength/">&#9658;</a>
 In a given medium under fixed conditions, speed is constant. Hence, there is a relationship between frequency(f) and wavelength(λ); the higher the frequency, the smaller the wavelength
 
 ---
+<div style="text-align:center">
 
-<p align="center">
-<img src = "content/longitest3bis.gif>
-</p>
+![](content/longitest3bis.gif)
+</div>
 
 <a href="https://blog.soton.ac.uk/soundwaves/wave-basics/wavelength-frequency-relation/">&#9658;</a>
 The animation above shows two acoustic longitudinal waves with two different frequencies but travelling with the same velocity. It can be seen that the wavelength is halved when the frequency is doubled.
 
 ---
-<p align="center">
-  <img src = "content/Typical_Signal.gif">
-</p>
+<div style="text-align:center">
+
+![](content/Typical_Signal.gif)
+</div>
 <a href="http://iamtechnical.com/wave-properties-amplitude-wavelength-and-phase-angle">&#9658;</a>
 An interactive animation illustrating the amplitude, wavelength and phase of a sine wave. Varying the amplitude, wavelength and phase; observe the effects on the transverse wave
 
@@ -80,23 +82,22 @@ An interactive animation illustrating the amplitude, wavelength and phase of a s
 ---
 
 # How much of Sound Intensity can we Feel? 
-<p align="center">
-<img src = "content/electrical_guru_noise_level.png>
+
+![](content/electrical_guru_noise_level.png)
 
 [<div style='text-align:center'>Image Follow Up</div>](https://www.scienceguru.co.in/fileman/Uploads/PHY%2009/Sound/electrical%20guru%20noise%20level.png)
 
 ---
 
 # How much of Sound Frequency can we Feel? 
-<p align="center">
 <img src="content/nasa_science_of_sound1.png">
 
 Image courtesy of [NASA](https://www.nasa.gov/specials/X59/science-of-sound.html) 
 
 ---
-<p align="center">
+
 <img src="content/animals_hearing_compare.jpg">
-</p>
+
 [<div style="text-align:center">Image Follow-up</div>](http://www.libertycentral.org.uk/how-do-animals-hearing-compare-to-humans/)
 
 ---
@@ -289,7 +290,6 @@ test
 
 ![](content/Data_Distribution.png) 
 > The above analysis explains that the dataset of both classes in the training folder is equally distributed in the length.
-
 **The MFCC Feature Extraction is applied to every training sample to get 13x99 features/coefficients. This is the method used to convert the audio data into numpy arrays**
 
 ---
@@ -345,5 +345,3 @@ https://aavos.eu/glossary/fourier-transform/
 https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
 
 http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
-
-
