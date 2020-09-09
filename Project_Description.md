@@ -52,7 +52,7 @@ so on..
 We often think about how loud it is (amplitude, or intensity) and its pitch (frequency).
 
 <p align="center">
-![](content/Figure_18_02_04a.jpg)
+<img src = "content/Figure_18_02_04a.jpg>
 </p>
 <a href="https://courses.lumenlearning.com/physics/chapter/17-2-speed-of-sound-frequency-and-wavelength/">&#9658;</a>
 In a given medium under fixed conditions, speed is constant. Hence, there is a relationship between frequency(f) and wavelength(λ); the higher the frequency, the smaller the wavelength
@@ -60,7 +60,7 @@ In a given medium under fixed conditions, speed is constant. Hence, there is a r
 ---
 
 <p align="center">
-![](content/longitest3bis.gif)
+<img src = "content/longitest3bis.gif>
 </p>
 
 <a href="https://blog.soton.ac.uk/soundwaves/wave-basics/wavelength-frequency-relation/">&#9658;</a>
@@ -68,7 +68,7 @@ The animation above shows two acoustic longitudinal waves with two different fre
 
 ---
 <p align="center">
-![](content/Typical_Signal.gif)
+  <img src = "content/Typical_Signal.gif">
 </p>
 <a href="http://iamtechnical.com/wave-properties-amplitude-wavelength-and-phase-angle">&#9658;</a>
 An interactive animation illustrating the amplitude, wavelength and phase of a sine wave. Varying the amplitude, wavelength and phase; observe the effects on the transverse wave
@@ -81,7 +81,7 @@ An interactive animation illustrating the amplitude, wavelength and phase of a s
 
 # How much of Sound Intensity can we Feel? 
 <p align="center">
-![](content/electrical_guru_noise_level.png)
+<img src = "content/electrical_guru_noise_level.png>
 
 [<div style='text-align:center'>Image Follow Up</div>](https://www.scienceguru.co.in/fileman/Uploads/PHY%2009/Sound/electrical%20guru%20noise%20level.png)
 
